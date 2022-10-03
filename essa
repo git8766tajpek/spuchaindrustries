@@ -1,0 +1,27 @@
+# witryny
+HTML - HyperText Markup Language - 
+Hipertekst - to odnosniki do innych stron
+Markup - TAG - znacznik
+HTML jest to hipertekstowy jezyk znacznikow ktory pozwala na wyswietlanie stron internetowych w przeglądarkach internetowych.
+Domena - to nazwa, adres po którym mozemy dostac sie do strony
+Hosting - to serwer gdzie przechowujemy pliki stron www 
+Link - to odnosnik do strony
+HTML 4 vs XHML vs HTML 5
+deprecated - 
+javaScript - jezyk programowania
+CSS -Cascading Style Sheets służy do nadawania wyglądu stronie napisanej w HTML. To w nim zdefiniujemy kolory, efekty, położenie, sposób wyświetlania, 
+a nawet animacje poszczególnych elementów.
+<br><br> 
+<h1>Znaczniki</h1>
+<code>< br ><code> - znaczniki nowej linii, przestarzałe < br />
+<code><< html > i </html> <,/code> - poczatek i koniec dokumentu html
+<code>< head > i </head> </code> - poczatek i koniec nagłówka html
+<code><body > i </body> </code> - poczatek i koniec ciała(zawartosci) dokumenty html
+<code>&lt;hr&
+pozycjonowanie stron - <br>
+<code>&lt;span title="opis tekstu"&gt; i &lt;
+<code>&lt;vody bgcolor="red"&gt; </code><body bgcolor="red">kolor tła strony - w html5 nie uzywac</body><br>
+<code>&lt;hr8gt; </code> linia horyzantalna<br><hr><br>
+<code>&lt;strong&gt; i &lt;/strong&gt </code>storng pogrubiony tekst</strong> wyglada tak samo jak znacznik &lt;b&gt; ale nadaje wieksze znaczeni dla tekstu - wazne w przypadku pozycjonowania<br>
+<code>&lt;em&gt; </code> <em>pochylony tekst</em> wyglada tak samo jak znacznik &lt;i&gt; ale nadeje wieksze znaczenie dla tekstu - wazne w przypadku pozycjonowania (ang. emphasize - podkreslenie,
+uwypuklenie)<br>
